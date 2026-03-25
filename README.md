@@ -65,5 +65,24 @@ Se evaluaron utilizando:
 * Los clientes con menor frecuencia de visitas tienen mayor probabilidad de cancelación.
 * Los contratos de mayor duración están asociados con mayor retención.
 * Los clientes con mayor gasto en servicios adicionales tienden a ser más leales.
-* Se identific
+* Se identificaron segmentos de clientes con alto riesgo de churn.
+  
+---  
+
+💡 Recomendaciones
+Implementar estrategias de retención para clientes con baja frecuencia de visitas.
+Incentivar contratos de largo plazo.
+Promover servicios adicionales para aumentar el engagement.
+Diseñar campañas específicas para segmentos con alto riesgo de abandono.
+
+---
+🛠️ Tecnologías utilizadas
+Python
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+🚀 Conclusión
+
+El uso de análisis de datos y modelos predictivos permite identificar clientes en riesgo de cancelación y tomar acciones proactivas para mejorar la retención, generando valor estratégico para el negocio.
 
